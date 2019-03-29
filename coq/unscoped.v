@@ -1,4 +1,5 @@
-(* Autosubst 2, considered preliminaries *)
+(* The code of this file is included with Autosubst 2 *)
+(* considered preliminaries *)
 Require Import std.
 Require Export axioms.
 

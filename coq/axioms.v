@@ -1,3 +1,4 @@
+(* The code of this file is a modified version of the axioms included with Autosubst 2 *)
 (** * Axiomatic Assumptions
     For our development, we have to extend Coq with one well known axiomatic assumptions, namely _functional extensionality_.
 *)
