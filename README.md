@@ -1,6 +1,6 @@
 # Higher-Order Unification Undecidability
 
-Source Code accompanying the [Bachelor's thesis](http://www.ps.uni-saarland.de/~spies/bachelor/thesis-spies.pdf) of Simon Spies. 
+Source code accompanying the [Bachelor's thesis](http://www.ps.uni-saarland.de/~spies/bachelor/thesis-spies.pdf) of Simon Spies. 
 The [project page](http://www.ps.uni-saarland.de/~spies/bachelor.php) contains 
 the thesis as well as a [documentation](http://www.ps.uni-saarland.de/~spies/hou/toc.html) of the 
 source code.
